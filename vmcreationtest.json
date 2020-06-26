@@ -234,7 +234,6 @@
                 "id": "[variables('subnetRef')]"
               }
             }
-          }
         ],
         
       "dependsOn": [
