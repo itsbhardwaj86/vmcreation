@@ -10,7 +10,6 @@
       }
     },
     "virtualMachineAdminPassword": {
-	"defaultValue": "Axaltaadmin@123"
       "type": "securestring",
       "metadata": {
         "description": "Administrator password for the local admin account"
