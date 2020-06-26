@@ -157,10 +157,6 @@
       },
       "kind": "Storage"
     },
-      "sku": {
-        "name": "Aligned"
-      }
-    },
     {
       "type": "Microsoft.Compute/virtualMachines",
       "name": "[concat(parameters('virtualMachineNamePrefix'), copyIndex(1))]",
